@@ -16,10 +16,11 @@ This is a open-source version for local MySQL database.
 <img width="1042" alt="ER diagram" src="/data/ER.png">
 
 ## File Directories
-- Disney Data: Consists of raw data of information related to Disney World Magic Kingdom Orlando between Jan 2015 to Dec 2021
-- climate_data: Consists of raw data of information related to climate in Orlando between Jan 2015 to Dec 2021
-- flight_date: Consists of raw data of information related to flights into and out of Orlando International Airport between Jan 2015 to Dec 2021
-- DWP: Main application code
+- data/disney_data: Consists of raw data of information related to Disney World Magic Kingdom Orlando between Jan 2015 to Dec 2021
+- data/climate_data: Consists of raw data of information related to climate in Orlando between Jan 2015 to Dec 2021
+- data/flight_date: Consists of raw data of information related to flights into and out of Orlando International Airport between Jan 2015 to Dec 2021
+- client: Consists of front-end scripts and static files
+- server: Consists of back-end APIs and embedded SQL queries
 
 ## Steps to Build
 - Clone the Github
