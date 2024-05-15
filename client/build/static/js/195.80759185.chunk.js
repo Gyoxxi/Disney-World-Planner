@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[195],{9195:function(e,c,a){e.exports=a.p+"static/media/PrinceCharmingRegalCarrousel.33c371a945c8937214fa.jpg"}}]);

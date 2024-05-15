@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[447],{7447:function(e,t,c){e.exports=c.p+"static/media/PiratesoftheCaribbean.b620443e5c4cd64764d9.jpg"}}]);

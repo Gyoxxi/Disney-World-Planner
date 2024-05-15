@@ -1,0 +1,9 @@
+{
+  "rds_host": "localhost",
+  "rds_port": "3306",
+  "rds_user": "root",
+  "rds_password": "password123",
+  "rds_db":"DWP",
+  "server_host": "localhost",
+  "server_port": "8080"
+}

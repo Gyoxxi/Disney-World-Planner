@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[393],{6393:function(e,t,c){e.exports=c.p+"static/media/UndertheSeaJourneyoftheLittleMermaid.aa69d2c3347d8d07e3bc.jpg"}}]);

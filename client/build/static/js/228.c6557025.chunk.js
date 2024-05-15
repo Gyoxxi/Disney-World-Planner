@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[228],{4228:function(c,e,a){c.exports=a.p+"static/media/MadTeaParty.4d5452a4889ccacdcf73.jpg"}}]);

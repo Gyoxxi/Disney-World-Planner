@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[766],{5766:function(e,c,n){e.exports=n.p+"static/media/SevenDwarfsMineTrain.3c7eb8d438cf84cf2195.jpg"}}]);

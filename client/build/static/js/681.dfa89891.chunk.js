@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[681],{9681:function(e,n,t){e.exports=t.p+"static/media/TheHauntedMansion.fabb6077f8ad38b6362e.jpg"}}]);

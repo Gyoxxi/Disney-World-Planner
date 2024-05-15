@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[500],{7500:function(e,c,s){e.exports=s.p+"static/media/MonstersIncLaughFloor.f9238055bc278946b5e0.jpg"}}]);
