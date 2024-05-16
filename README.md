@@ -1,7 +1,7 @@
 # Disney World Planner
 Disney World Planner is a planning tool that creates an optimized itinerary for a trip to Disney's Magic Kingdom Orlando based on user preferences. 
 
-This is the open-source version for local MySQL database. 
+This is the open-source version using local MySQL database. 
 
 ## Key Features 
 - List of rides in Disney World Orlando with ride information and historical statistics on wait time  
